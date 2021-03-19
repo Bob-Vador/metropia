@@ -1,0 +1,38 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Garry",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "garry"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.garry.name": "Garry"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "metropia",
+    "modName": "metropia",
+    "version": "1.0.0",
+    "author": "Clément, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.mcreator.metropia",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
